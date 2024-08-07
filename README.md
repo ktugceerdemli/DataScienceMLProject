@@ -5,5 +5,5 @@
 
 [ Web Link: https://datasciencedreamteam.streamlit.app/](https://machinelearningtheory.streamlit.app/)
 
-# DataSceinceDreamTeam
+# DataScienceDreamTeam
 Discord: https://discord.gg/3pZYknszqJ
