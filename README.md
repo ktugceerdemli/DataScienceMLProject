@@ -3,7 +3,7 @@
 1. Linear Regresyon
 2. Multiple Linear Regresyon 
 
-[ Web Link: https://datasciencedreamteam.streamlit.app/](https://machinelearningtheory.streamlit.app/)
+[ Web Link: https://mltheory-datasciencedreamteam.streamlit.app/](https://mltheory-datasciencedreamteam.streamlit.app/)
 
 # DataScienceDreamTeam
 Discord: https://discord.gg/3pZYknszqJ
